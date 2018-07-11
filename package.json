@@ -1,0 +1,26 @@
+{
+  "name": "tdc-api-js",
+  "version": "0.1.0",
+  "description": "A TDC API client writed in javascript.",
+  "main": "apiClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusmatos/tdc-api-js.git"
+  },
+  "keywords": [
+    "the-developers-conference"
+  ],
+  "author": "Matheus Matos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheusmatos/tdc-api-js/issues"
+  },
+  "homepage": "https://github.com/matheusmatos/tdc-api-js#readme",
+  "dependencies": {
+    "apisauce": "^0.15.2",
+    "axios": "^0.18.0"
+  }
+}
